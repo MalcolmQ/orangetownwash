@@ -101,6 +101,12 @@ a.active, a:hover{
         left: 0;
     }
 }
+@media(max-width: 780px){
+    label.logo{
+        font-size: 12px;
+        padding-left: 50px;
+    }
+}
      .coverimg{
         background: url(images/Washer-3.jpg) no-repeat;
         background-size: cover;

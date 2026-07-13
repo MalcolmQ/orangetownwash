@@ -229,3 +229,68 @@ a.active, a:hover{
 .heading{
     text-align: center;
 }
+
+/* Modern Updates to page */
+        /* Modern Section Hero */
+.services-hero {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.services-hero h1 {
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.hero-img {
+    width: 90%;
+    max-width: 450px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Modernized Service Card */
+.service-card {
+    background: #fff;
+    padding: 30px 20px;
+    margin: 30px auto;
+    max-width: 900px;
+    border-radius: 18px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.service-card h2 {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.service-card ul,
+.service-card ol {
+    margin-left: 20px;
+    line-height: 1.7;
+    color: #555;
+}
+
+.card-img {
+    width: 90%;
+    max-width: 450px;
+    border-radius: 18px;
+    display: block;
+    margin: 25px auto 0 auto;
+}
+
+/* Icons */
+.service-card i {
+    color: orangered;
+    margin-right: 8px;
+}
+

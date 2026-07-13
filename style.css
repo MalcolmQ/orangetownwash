@@ -294,3 +294,80 @@ a.active, a:hover{
     margin-right: 8px;
 }
 
+/* About Page Hero */
+.about-hero {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.about-hero h1 {
+    font-size: 2.6rem;
+    color: #333;
+}
+
+.about-hero .subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* About Card */
+.about-card {
+    background: #fff;
+    padding: 35px 25px;
+    margin: 30px auto;
+    max-width: 1000px;
+    border-radius: 18px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.about-card h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.about-card p {
+    line-height: 1.7;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Owner Image Section */
+.about-img-wrap {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-img {
+    width: 260px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Washing Machine Icon Image */
+.about-icon-img {
+    width: 120px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* List */
+.service-list {
+    margin-top: 20px;
+    padding-left: 20px;
+    color: #444;
+    font-size: 1.1rem;
+}
+
+.service-list li {
+    margin-bottom: 8px;
+}
+
+/* Icons */
+.about-card i {
+    color: orangered;
+    margin-right: 8px;
+}
+
+
